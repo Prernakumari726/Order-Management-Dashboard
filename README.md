@@ -1,17 +1,8 @@
 📌 Project Overview
 
-The Order Management Dashboard is an interactive Excel dashboard designed to analyze and monitor sales/order performance for a pizzabun business. It provides insights into:
+The Order Management Dashboard is an interactive Excel dashboard designed to analyze and monitor sales and order performance for a pizzabun business. It provides insights into total orders, revenue generated, average revenue, discounts, product performance, and sales trends.
 
-Total Orders
-Revenue Generated
-Average Revenue
-Average Discount Given
-Most Ordered Products
-Daily Revenue Trends
-Daily Sales Trends
-
-The dashboard uses Pivot Tables, Pivot Charts, and Slicers to create a dynamic reporting experience.
-Dataset includes online and physical visit orders with agent-wise and product-wise analysis.
+The dashboard is built using Pivot Tables, Pivot Charts, and Slicers to create a dynamic and interactive reporting system. The dataset includes both online and physical visit orders with agent-wise and product-wise analysis.
 
 📂 Files Included
 File	Description
@@ -21,7 +12,7 @@ Orders-Dashboard	Interactive dashboard visualization
 📊 Features
 1. KPI Cards
 
-The dashboard displays important business metrics:
+The dashboard displays key business metrics:
 
 Total Orders
 Total Revenue
@@ -44,11 +35,11 @@ Roch Cousineau
 3. Charts Included
 📈 Revenue Trend Chart
 
-Shows revenue generated each day.
+Displays revenue generated for each day.
 
 📉 Sales Trend Chart
 
-Displays number of sales/orders per day.
+Shows the number of sales/orders per day.
 
 📊 Most Ordered Products
 
@@ -57,7 +48,7 @@ Compares:
 Count of Orders
 Revenue Generated
 
-Products include:
+Products included:
 
 Paneer Tikka Pizzabun
 Crispy Chole Pizzabun
@@ -67,7 +58,7 @@ Aloo Shots Pizzabun
 Large Paneer Tikka Pizzabun
 🧾 Dataset Information
 
-The dataset contains the following fields:
+The dataset contains the following columns:
 
 Column	Description
 Order ID	Unique order identifier
@@ -83,7 +74,7 @@ Gross Revenue	Revenue before discount
 Net Revenue	Revenue after discount
 Discount Amount	Discount value
 
-Example data records:
+Example records are included in the dataset.
 
 ⚙️ Tools & Techniques Used
 Microsoft Excel
@@ -93,11 +84,10 @@ Slicers
 KPI Cards
 Conditional Formatting
 Dashboard Design Principles
-
 🚀 How to Use
 Open the Excel workbook.
-Navigate to the Orders-Dashboard sheet.
-Use slicers to filter:
+Go to the Orders-Dashboard sheet.
+Use slicers to filter data by:
 Order Type
 Agent
 Analyze:
@@ -105,26 +95,17 @@ Revenue trends
 Sales performance
 Product popularity
 Dashboard updates automatically based on filters.
-
 📌 Key Insights
 Large Paneer Tikka Pizzabun generates high revenue.
-Discounts significantly impact net revenue.
-Online orders contribute a major share of sales.
-Revenue fluctuates daily with noticeable peaks during late June and July.
-
+Discounts have a significant impact on net revenue.
+Online orders contribute a major portion of total sales.
+Revenue trends fluctuate daily with noticeable peaks during certain periods.
 🎯 Business Use Cases
-This dashboard can help businesses:
+
+This dashboard helps businesses to:
+
 Track daily sales performance
 Monitor discount impact
 Analyze top-selling products
-Evaluate sales agents
-Improve operational decisions
-
-📷 Dashboard Preview
-
-The dashboard contains:
-Interactive slicers
-KPI summary cards
-Trend analysis charts
-Product performance visuals
-📄 License
+Evaluate sales agent performance
+Improve business decision-making
